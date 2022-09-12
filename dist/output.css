@@ -581,6 +581,10 @@ video {
   margin: 1rem;
 }
 
+.m-16{
+  margin: 4rem;
+}
+
 .mx-16{
   margin-left: 4rem;
   margin-right: 4rem;
@@ -592,6 +596,14 @@ video {
 
 .mt-8{
   margin-top: 2rem;
+}
+
+.mb-2{
+  margin-bottom: 0.5rem;
+}
+
+.mb-6{
+  margin-bottom: 1.5rem;
 }
 
 .inline-block{
@@ -665,6 +677,16 @@ video {
 .text-2xl{
   font-size: 1.5rem;
   line-height: 2rem;
+}
+
+.text-4xl{
+  font-size: 2.25rem;
+  line-height: 2.5rem;
+}
+
+.text-5xl{
+  font-size: 3rem;
+  line-height: 1;
 }
 
 .font-bold{
